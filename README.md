@@ -9,3 +9,6 @@ Here's a brief summary of our project:
       
       I was in charge of helping clean up the data and mainly creating the map and graphs.
 Please see the INST126 Final Project.ipynb file for code for the project. We collaborated using Google Colab and then used Jupyter Lab to write the final code.
+Data on CO2 emissions was obtained from https://data.worldbank.org/indicator/EN.ATM.CO2E.PC?end=2014&start=2014&view=map 
+Data on temperature, was obtained from https://data.nodc.noaa.gov/cgi-bin/iso?id=gov.noaa.ncdc:C00934 
+Data on earthquake occurences from 1980-2014, which is in the results.txt file was obtained from https://www.ngdc.noaa.gov/nndc/struts/form?t=101650&s=1&d=1 

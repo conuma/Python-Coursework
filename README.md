@@ -12,3 +12,6 @@ Please see the INST126 Final Project.ipynb file for code for the project. We col
 Data on CO2 emissions was obtained from https://data.worldbank.org/indicator/EN.ATM.CO2E.PC?end=2014&start=2014&view=map 
 Data on temperature, was obtained from https://data.nodc.noaa.gov/cgi-bin/iso?id=gov.noaa.ncdc:C00934 
 Data on earthquake occurences from 1980-2014, which is in the results.txt file was obtained from https://www.ngdc.noaa.gov/nndc/struts/form?t=101650&s=1&d=1 
+
+# INST447
+Our final project for this class involved us determining if there was a relationship between the income of a neighborhood and the amount of redvelopment that happens in that neighborhood. The area we studied was D.C. We obtained our redevelopment data from opendata.dc.gov and our income data from planning.dc.gov. The full project can be found in the jupyter notebook file (ipynb).

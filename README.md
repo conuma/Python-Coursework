@@ -13,5 +13,8 @@ Data on CO2 emissions was obtained from https://data.worldbank.org/indicator/EN.
 Data on temperature, was obtained from https://data.nodc.noaa.gov/cgi-bin/iso?id=gov.noaa.ncdc:C00934 
 Data on earthquake occurences from 1980-2014, which is in the results.txt file was obtained from https://www.ngdc.noaa.gov/nndc/struts/form?t=101650&s=1&d=1 
 
+# INST326
+Our final project for the class involved us using MapQuest's heatmap API in order to make a heatmap of UFO sightings in the U.S. This project is found in the onumajuru_catherine_final_3.py file. When the code is run, it will output an html file that displays the heatmap and a javascript file that has a list of all the coordinates that are in the heatmap.
+
 # INST447
-Our final project for this class involved us determining if there was a relationship between the income of a neighborhood and the amount of redvelopment that happens in that neighborhood. The area we studied was D.C. We obtained our redevelopment data from opendata.dc.gov and our income data from planning.dc.gov. The full project can be found in the jupyter notebook file (ipynb).
+Our final project for this class involved us determining if there was a relationship between the income of a neighborhood and the amount of redvelopment that happens in that neighborhood. The area we studied was D.C. We obtained our redevelopment data from opendata.dc.gov and our income data from planning.dc.gov. The full project can be found in the jupyter notebook file (GroupProjectNotebook.ipynb). A list and link to all the data used can be found in the Sources of files.docx file. My role in the project was to do the cleaning and processing, while my partner worked on the visualizations or graphs. 

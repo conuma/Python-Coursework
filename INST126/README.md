@@ -1,0 +1,12 @@
+# INST126
+For our final project in the class, our group wanted to see if there was some type of connection between CO2 emmissions and temperature.
+We wanted to see if possibly the more CO2 emissions that a country has, the higher or more extreme temperatures they would experience. 
+Here's a brief summary of our project: 
+      For our project, we were able to extract historical data on CO2 emissions, earthquake occurrences, and temperature for countries           worldwide. Using this data, we were able to use Pandas in order to create a cleaner dataframe, including finding the averages over         the years. Using the earthquake occurrences dataset, we were able to graph the earthquake occurrences worldwide by overlaying it           over a basemap. For the temperatures dataset, we averaged the temperatures over the years and also created a line graph in order to         represent this change over time. Finally, we created a historical CO2 emissions dataset and found the average CO2 emissions per             country. Using these averages, we sorted the dataset to show those with the highest average CO2 emissions at the top. The top 30           countries with the highest average CO2 emissions were then represented in a bar graph. More details can be found in the                     Project FInal.docx file. 
+      
+      I was in charge of helping clean up the data and mainly creating the map and graphs.
+Please see the INST126 Final Project.ipynb file for code for the project. We collaborated using Google Colab and then used Jupyter Lab to write the final code.
+Data on CO2 emissions was obtained from https://data.worldbank.org/indicator/EN.ATM.CO2E.PC?end=2014&start=2014&view=map 
+Data on temperature, was obtained from https://data.nodc.noaa.gov/cgi-bin/iso?id=gov.noaa.ncdc:C00934 
+Data on earthquake occurences from 1980-2014, which is in the results.txt file was obtained from https://www.ngdc.noaa.gov/nndc/struts/form?t=101650&s=1&d=1 
+

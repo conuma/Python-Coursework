@@ -10,7 +10,6 @@ for i in cities:
     place = i.split('\t')
     location = place[0]
     count = place[1]
-    #city_list.append(location)
     url = "http://open.mapquestapi.com/geocoding/v1/address?&key=" + API + "&location=" + location
     data = requests.get(url)
     result = json.loads(data.text)
